@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "505520166523",
+    "project_id": "pneumonia-detection-a3b20",
+    "storage_bucket": "pneumonia-detection-a3b20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505520166523:android:e25a9cb2ef728fbf7474de",
+        "android_client_info": {
+          "package_name": "com.example.pneumonia_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505520166523-3rn388204pee19p16hkcq8atrklemeib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pneumonia_detection",
+            "certificate_hash": "6a422d1168d23532306cf31d7266434ff9f291d9"
+          }
+        },
+        {
+          "client_id": "505520166523-tf1pkcgqscmu6v0llkf81jtf4j55ero5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKBmtCyoWwyxKB3iQVwrPKAivVpoFMMa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505520166523-tf1pkcgqscmu6v0llkf81jtf4j55ero5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505520166523-85vfds18ql2muldicv2ujrp065f3p0vq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pneumoniaDetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
